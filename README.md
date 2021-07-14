@@ -3,3 +3,4 @@
 ![code inspector score](https://www.code-inspector.com/project/24697/score/svg)
 ![code grade](https://www.code-inspector.com/project/24697/status/svg)
 ![cppcheck-action](https://github.com/stepin654321/MiniProject_Template/workflows/cppcheck-action/badge.svg)
+![C/C++ CI](https://github.com/stepin654321/MiniProject_Template/workflows/C/C++%20CI/badge.svg)
